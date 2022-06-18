@@ -1,0 +1,50 @@
+body {
+    background-color: #FFFFFF;
+}
+
+.link {
+    color: #212121;
+}
+
+.link:hover,
+.link:focus {
+    color: #2196F3
+}
+
+.line:active {
+    color: #2196F3;
+}
+
+.button-menu:hover,
+.button-menu:focus {
+    background-color: #2196F3;
+}
+
+.button-menu {
+    color: #212121
+}
+
+.list {
+    list-style: none;
+}
+
+.portfolio-card {
+    width: 370px;
+    height: 404px;
+    left: 215px;
+    top: 262px;
+
+    border: 1px solid #eeeeee;
+}
+
+.portfolio-card .title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+}
+
+.portfolio-card .text {
+    font-size: 16px;
+    line-height: 30px;
+}
